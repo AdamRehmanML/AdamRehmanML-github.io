@@ -1,8 +1,3 @@
----
-layout: default
-title: Adam Rehman Portfolio
----
-
 # Adam Rehman Portfolio
 
 ## 🔗 Links
