@@ -1,3 +1,56 @@
-theme: jekyll-theme-minimal
-title: Adam's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site Settings
+title: "Adam Rehman Portfolio"
+description: "Showcasing Machine Learning and AI projects by Adam Rehman"
+baseurl: "" # Leave blank for root
+url: "https://yourdomain.com" # Update with your domain
+
+# Author Information
+author:
+  name: "Adam Rehman"
+  email: "your.email@example.com" # Optional
+
+# Navigation Links
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects/"
+  - name: "About"
+    url: "/about/"
+  - name: "Contact"
+    url: "/contact/"
+
+# Social Links
+social_links:
+  - name: "LinkedIn"
+    icon: "linkedin"
+    url: "https://www.linkedin.com/in/adam-rehman/"
+  - name: "GitHub"
+    icon: "github"
+    url: "https://github.com/AdamRehmanML"
+  - name: "Kaggle"
+    icon: "kaggle"
+    url: "https://www.kaggle.com/adamrehmanml"
+  - name: "Google Developers"
+    icon: "google-developers"
+    url: "https://developers.google.com/profile/u/115271305541804498518"
+
+# Theme Settings
+theme: jekyll-theme-minimal # You can replace this with any theme you prefer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
+
+# Build Settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - config.yaml
