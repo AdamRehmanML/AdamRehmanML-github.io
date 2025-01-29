@@ -30,17 +30,24 @@ I have a strong background in Electrical and Electronic Engineering, with a pass
 ---
 
 ## 🧪 Projects
-### 🧠 [Char-Level Tokenized LLM](https://github.com/AdamRehmanML/MatrixGPT/blob/master/main.py)
-- Developed a **character-level language model** for text generation using custom tokenization techniques.
 
-### 🔑 [LLM Tokenizer](https://github.com/AdamRehmanML/MatrixGPT/blob/master/tokenizer.py)
-- Created a **custom tokenizer** to optimize input sequences for large language models.
+### 🔥 Large Language Models
+1. **[Char-Level Tokenized LLM](https://github.com/AdamRehmanML/MatrixGPT/blob/master/main.py)**  
+   - Developed a **character-level language model** for text generation using custom tokenization techniques.
 
-### 🤖 [Tokenized LLM](https://github.com/AdamRehmanML/MatrixGPT/blob/tokenized-gpt/main2.py)
-- Built a **tokenized language model** using advanced deep learning techniques for efficient processing.
+2. **[LLM Tokenizer](https://github.com/AdamRehmanML/MatrixGPT/blob/master/tokenizer.py)**  
+   - Created a **custom tokenizer** to optimize input sequences for large language models.
+
+3. **[Tokenized LLM](https://github.com/AdamRehmanML/MatrixGPT/blob/tokenized-gpt/main2.py)**  
+   - Built a **tokenized language model** using advanced deep learning techniques for efficient processing.
 
 ### 🖼️ [Mask Generation for AI Inpainting Models](https://github.com/AdamRehmanML/Masters-Proj-Notebook)
 - Designed a **mask generation algorithm** to improve performance of AI inpainting models, enabling better image restoration.
+
+### 💳 [Credit Card Fraud Detection with Machine Learning](https://github.com/AdamRehmanML/Fraud-Detection)
+- Applied **machine learning techniques** (gradient boosted trees) to detect fraudulent credit card transactions.
+- Emphasized **data preprocessing** (scaling, feature engineering) and **model evaluation** (precision, recall, and AUC) to optimize fraud detection performance.
+- Demonstrated **end-to-end** pipeline, including data cleaning, model training, and results visualization.
 
 ---
 
